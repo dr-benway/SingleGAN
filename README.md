@@ -17,7 +17,7 @@ By  leveraging multiple adversarial learning, our model can perform multi-domain
 
 ## Dependencies
  - Python 3.x
- - Pytorch 0.4.1 or later
+ - Pytorch 1.1.0 or later
 
 you can install all the dependencies  by
 ```
